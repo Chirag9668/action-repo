@@ -1,3 +1,5 @@
+print("Welcome to the India Edition of Calculator!")
+
 def get_numbers():
     numbers = []
     for i in range(5):
